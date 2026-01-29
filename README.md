@@ -23,7 +23,7 @@ Users should be able to:
 
 ---
 
-## Live Demo
+## Links
 [Solution URL](https://github.com/fikki008/faq-accordion.git)
 
 [Live Site URL](https://fikki-faq-accordion.netlify.app/)
