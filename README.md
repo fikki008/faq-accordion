@@ -24,9 +24,9 @@ Users should be able to:
 ---
 
 ## Live Demo
-[Solution URL](https://yourusername.github.io/faq-accordion/)  
+[Solution URL](https://fikki008.github.io/faq-accordion/)  
 
-[Live Site URL](https://yourusername.github.io/faq-accordion/)  
+[Live Site URL](https://fikki-faq-accordion.netlify.app/)
 
 
 ---
