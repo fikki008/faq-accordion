@@ -48,8 +48,7 @@ Users should be able to:
 
 ---
 
-## Getting Started
+Author
 
-### Clone the Repository
-```bash
-git clone https://github.com/yourusername/faq-accordion.git
+- Your Name – fikki008
+- Challenge inspired by Frontend Mentor
